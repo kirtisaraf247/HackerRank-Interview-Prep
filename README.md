@@ -1,1 +1,1 @@
-# HackerRank-7-Days-Interview-Prep
+HackerRank-7-Days-Interview-Prep
